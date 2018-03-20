@@ -1,0 +1,6 @@
+.accardion-item:not(.active) {
+	.accardion-content{
+		display: none;
+	}
+}
+
